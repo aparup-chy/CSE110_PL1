@@ -1,4 +1,4 @@
-#### This repository contains the materials and files (Mostly Lab Files) for the Programming Language I course (CSE110) of the Spring 2022 semester. The files are written on Python though the logic is same for all language.
+#### This repository contains the materials and files (Mostly Lab Files) for the Programming Language 1 course (CSE110) of the Spring 2022 semester which is basically the first course on Python programming language. The files are written on Python though the logic is same for all language.
 
 ## Plagarism Alert
 
